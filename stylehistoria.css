@@ -1,0 +1,59 @@
+#barra{
+    background-color: rgb(255, 255, 255);
+    height: 30px;
+}
+
+#nav{
+    list-style: none;
+    display: flex;
+    justify-content: space-evenly;
+    width: 500px;
+    margin-left: 510px;
+}
+
+a{
+  text-decoration: none;
+  color: black;  
+}
+
+section{
+    height: 65px;
+    background-image:url(./images/fundo.png);
+    border-radius: 10px;
+}
+
+h1{
+    padding-top: 20px;
+    text-align: center;
+    color: white;
+}
+
+#foto{
+    background-image: url(./images/perfil.png);
+    width: 300px;
+    height: 300px;
+    margin-left: 50px;
+    margin-top: 50px;
+    
+}
+
+#textohistoria{
+    margin-left: 400px;
+    margin-top: -230px;
+    text-align: justify;
+    width: 970px;
+}
+
+footer{
+    margin-top: 320px;
+    font-size: 10px;
+    text-align: center;
+}
+
+#voltar{
+    margin-top: -80px;
+    font-size: 15px;
+    text-align: right;
+    margin-right: 80px;
+    
+}
